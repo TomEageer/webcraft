@@ -1,0 +1,11 @@
+# Built from YOUR OWN Minecraft client by tools/build_vanilla.py — Mojang/Microsoft copyright, never commit
+assets/vanilla/
+# Local Java datagen toolchain (JRE, client libraries, extracted data)
+tools/datagen/
+node_modules/
+# LAN multiplayer prototype (not released yet)
+lan/
+*.orig
+*.rej
+*.rej.orig
+.DS_Store

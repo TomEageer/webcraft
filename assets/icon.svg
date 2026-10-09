@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Isometric grass block: a regular hexagon inscribed in a circle r=80 split into three rhombi
+       by the centre point. Grass fringe = top quarter of each side face; top face ruled into a 4x4 grid
+       by lines parallel to its edges. -->
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fb2ff"/><stop offset="1" stop-color="#3e6fc4"/></linearGradient></defs>
+  <rect x="25" y="25" width="206" height="206" rx="46" fill="url(#sky)"/>
+  <polygon points="58.7,92.0 128.0,132.0 128.0,212.0 58.7,172.0" fill="#8a5a33"/>
+  <polygon points="128.0,132.0 197.3,92.0 197.3,172.0 128.0,212.0" fill="#6b4425"/>
+  <polygon points="58.7,92.0 128.0,132.0 128.0,152.0 58.7,112.0" fill="#4f9a2f"/>
+  <polygon points="128.0,132.0 197.3,92.0 197.3,112.0 128.0,152.0" fill="#3f7f25"/>
+  <polygon points="128.0,52.0 197.3,92.0 128.0,132.0 58.7,92.0" fill="#6cc04a"/>
+  <g stroke="#5aa83a" stroke-width="2"><path d="M76.0 82.0 L145.3 122.0"/><path d="M76.0 102.0 L145.3 62.0"/><path d="M93.4 72.0 L162.6 112.0"/><path d="M93.4 112.0 L162.6 72.0"/><path d="M110.7 62.0 L180.0 102.0"/><path d="M110.7 122.0 L180.0 82.0"/></g>
+  <polygon points="128.0,52.0 197.3,92.0 197.3,172.0 128.0,212.0 58.7,172.0 58.7,92.0" fill="none" stroke="#1f2a14" stroke-opacity="0.35" stroke-width="2" stroke-linejoin="round"/>
+</svg>
