@@ -2,11 +2,6 @@ MIT License
 
 Copyright (c) 2026 TomEageer
 
-This license covers the WebCraft source code (index.html, js/, tools/, docs/).
-It does NOT cover the media in assets/ (textures, sounds, music), which come from
-VoxeLibre and keep their own licenses (mainly CC BY-SA 3.0 / 4.0) — see
-assets/CREDITS.md. three.min.js is Three.js (MIT, Copyright 2010-2021 Three.js Authors).
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
